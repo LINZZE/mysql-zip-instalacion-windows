@@ -95,4 +95,5 @@ Notas:
 
     Asegúrese de tener acceso a una cuenta de administrador en el sistema Windows para realizar la instalación.
     La ruta de instalación de MySQL puede variar según su configuración.
-    Si encuentra algún error durante la instalación, consulte la documentación oficial de MySQL o busque ayuda en línea.
+    Si encuentra algún error durante la instalación, consulte la documentación oficial de MySQL.
+    MySQLzip trae consigo las credenciales de usuario = "root" y password="root"
