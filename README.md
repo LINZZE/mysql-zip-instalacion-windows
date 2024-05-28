@@ -4,7 +4,7 @@ Este manual describe los pasos para instalar MySQL 8.4.0 de forma manual en un s
 ## Descarga e instalación de MySQL
 
 ### Descargar MySQL:
-* Descargue el archivo ZIP de MySQL 8.4.0 para Windows desde la página oficial de MySQL: https://dev.mysql.com/downloads/installer/
+* Descargue el archivo ZIP de MySQL 8.4.0 para Windows desde la página oficial de MySQL: https://dev.mysql.com/downloads/mysql/
 * Extraiga el contenido del archivo ZIP descargado en un directorio de su elección, por ejemplo: `C:\MySQL`.
 
 ## Configuración de MySQL
